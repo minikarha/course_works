@@ -1,0 +1,17 @@
+D:\repos\susu\4sem\cw_is_t\t4\bin\Release\net8.0-windows\t4.exe
+D:\repos\susu\4sem\cw_is_t\t4\bin\Release\net8.0-windows\t4.deps.json
+D:\repos\susu\4sem\cw_is_t\t4\bin\Release\net8.0-windows\t4.runtimeconfig.json
+D:\repos\susu\4sem\cw_is_t\t4\bin\Release\net8.0-windows\t4.dll
+D:\repos\susu\4sem\cw_is_t\t4\bin\Release\net8.0-windows\t4.pdb
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.Form1.resources
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.csproj.GenerateResource.cache
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.AssemblyInfoInputs.cache
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.AssemblyInfo.cs
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.csproj.CoreCompileInputs.cache
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.sourcelink.json
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.dll
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\refint\t4.dll
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.pdb
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\t4.genruntimeconfig.cache
+D:\repos\susu\4sem\cw_is_t\t4\obj\Release\net8.0-windows\ref\t4.dll

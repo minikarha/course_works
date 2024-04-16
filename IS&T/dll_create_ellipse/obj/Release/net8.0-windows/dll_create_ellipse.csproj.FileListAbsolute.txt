@@ -1,0 +1,15 @@
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\bin\Release\net8.0-windows\dll_create_ellipse.deps.json
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\bin\Release\net8.0-windows\dll_create_ellipse.dll
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\bin\Release\net8.0-windows\dll_create_ellipse.pdb
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.Properties.Resources.resources
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.UserControl1.resources
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.csproj.GenerateResource.cache
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.AssemblyInfoInputs.cache
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.AssemblyInfo.cs
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.csproj.CoreCompileInputs.cache
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.sourcelink.json
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.dll
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\refint\dll_create_ellipse.dll
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\dll_create_ellipse.pdb
+D:\repos\susu\4sem\cw_is_t\dll_create_ellipse\obj\Release\net8.0-windows\ref\dll_create_ellipse.dll

@@ -1,0 +1,17 @@
+D:\repos\susu\4sem\cw_is_t\t2\bin\Debug\net8.0-windows\t2.exe
+D:\repos\susu\4sem\cw_is_t\t2\bin\Debug\net8.0-windows\t2.deps.json
+D:\repos\susu\4sem\cw_is_t\t2\bin\Debug\net8.0-windows\t2.runtimeconfig.json
+D:\repos\susu\4sem\cw_is_t\t2\bin\Debug\net8.0-windows\t2.dll
+D:\repos\susu\4sem\cw_is_t\t2\bin\Debug\net8.0-windows\t2.pdb
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.Form1.resources
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.csproj.GenerateResource.cache
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.AssemblyInfoInputs.cache
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.AssemblyInfo.cs
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.csproj.CoreCompileInputs.cache
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.sourcelink.json
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.dll
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\refint\t2.dll
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.pdb
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\t2.genruntimeconfig.cache
+D:\repos\susu\4sem\cw_is_t\t2\obj\Debug\net8.0-windows\ref\t2.dll
