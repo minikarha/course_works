@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dll_create_ellipse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17853b0995ed5326a3540eba2b2418026933e264")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c60e339694046a51ab6177c885483cb7fa70ca96")]
 [assembly: System.Reflection.AssemblyProductAttribute("dll_create_ellipse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dll_create_ellipse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
